@@ -1,6 +1,9 @@
 # Sales-Data-Analysis
 An assessment prepared by Intern2Grow, for its Data Analyst Virtual Internship Program.</br>
-
+</br>
+It is required to answer some important questions so first should explor the data and check if there are null or missing values i found there was null values in price , revenue, quantity which was easy to resolve so once the data is clean I can work to 
+analyze data and generate insights crucial for decision-makers, including total revenue, highest revenue products and categories, average prices, and quarterly performance.</br>
+</br>
 ### Dataset</br>
 #
 The dataset is a CSV file called sales_data.csv. It contains information about sales made by a fictional company over the course of a year. The columns in the dataset are as follows:</br>
