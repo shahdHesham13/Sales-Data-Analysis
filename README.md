@@ -1,7 +1,9 @@
 # Sales-Data-Analysis
 An assessment prepared by Intern2Grow, for its Data Analyst Virtual Internship Program.</br>
 </br>
-
+The objective is to understand the impact of the company's posts on social media platforms like Facebook, Instagram, and Twitter, and determine which platform deserves investment for sponsored advertising.</br>It is required to answer some important questions that would benefit decision-makers.</br>
+also the project involved data cleaning, where I addressed reasons for missing data and handled empty values.</br>
+</br>
 ### Dataset</br>
 #
 The dataset is a CSV file called sales_data.csv. It contains information about sales made by a fictional company over the course of a year. The columns in the dataset are as follows:</br>
